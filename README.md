@@ -4,14 +4,14 @@
 
 # GH-900 GitHub Foundations
 
-## Learning Paths
+## Learning Paths 🚀
 
 - Learning Path 1️: [GitHub Foundations Part 1 of 2][LP1]
 - Learning Path 2️: [GitHub Foundations Part 2 of 2][LP2]
 
 <br>
 
-## Labs
+## Labs 🛠️
 
 <!-- 
 [Lab environment Skillable](https://) 
@@ -27,7 +27,7 @@
 <br>
 
 
-## Certification
+## Certification 🏅
 
 |   |   |
 | - | - |
@@ -41,7 +41,7 @@
 <br>
 
 
-## New: Microsoft Applied Skills 🚀
+## New: Microsoft Applied Skills ⚗️
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
@@ -53,7 +53,7 @@
 
 
 
-## Microsoft Learn
+## Microsoft Learn 👨‍🎓
 
 [Microsoft Credentials and Certifications](https://learn.microsoft.com/en-us/credentials/)
 
@@ -71,15 +71,20 @@
 <br>
 
 
-## Useful Links
+## Useful Links 🤿
 
 [GitHub Learn](https://learn.github.com/)
 
 [GH-900 GitHub Foundations - YouTube](https://www.youtube.com/playlist?list=PLahhVEj9XNTf5iQVK_80RdvTju7ov6RYy)
 
+[Microsoft Build, June 2–3, 2026](https://build.microsoft.com/en-US/home)
+
+[GitHub Universe, October 28-29, 2026](https://githubuniverse.com/)
+
 <br>
 
-## Your Trainer
+
+## Your Trainer 📲
 #### Thomas Jäkel
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150"><img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
