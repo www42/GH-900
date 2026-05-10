@@ -9,6 +9,7 @@
 - Learning Path 1️: [GitHub Foundations Part 1 of 2][LP1]
 - Learning Path 2️: [GitHub Foundations Part 2 of 2][LP2]
 
+<br>
 
 ## Labs
 
@@ -40,7 +41,7 @@
 <br>
 
 
-## New: Microsoft Applied Skills
+## New: Microsoft Applied Skills 🚀
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
@@ -92,6 +93,7 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/218CE025B3002579?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/603D525F71C003A5?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/FF81C50EA1B80D11?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/FF81C50EA1B80D11?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60 alt="Microsoft Applied Skills: Create an AI agent"></a>
 
 
 [My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
