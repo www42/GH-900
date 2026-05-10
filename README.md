@@ -41,7 +41,7 @@
 <br>
 
 
-## New: Microsoft Applied Skills ⚗️
+## New: Microsoft Applied Skills 🎉
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
