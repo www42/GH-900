@@ -4,6 +4,10 @@
 
 # GH-900 GitHub Foundations
 
+## Mittagspause
+
+11:45 - 12:15 Uhr
+
 ## Learning Paths 🚀
 
 - Learning Path 1️: [GitHub Foundations Part 1 of 2][LP1]
