@@ -6,7 +6,7 @@
 
 ## Mittagspause
 
-11:45 - 20:15 Uhr
+11:45 - 15:15 Uhr
 
 ## Learning Paths 🚀
 
