@@ -81,6 +81,8 @@
 
 [GitHub Universe, October 28-29, 2026](https://githubuniverse.com/)
 
+[User-friendly documentation for the SARIF file format](https://github.com/microsoft/sarif-tutorials)
+
 <br>
 
 
