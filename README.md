@@ -4,9 +4,13 @@
 
 # GH-900 GitHub Foundations
 
-## Mittagspause
+## Seminar 11. - 12.05.2026
 
-11:45 - 15:15 Uhr
+### Mittagspause
+
+11:45 - 12:30 Uhr
+
+<br>
 
 ## Learning Paths 🚀
 
@@ -78,6 +82,8 @@
 ## Useful Links 🤿
 
 [GitHub Learn](https://learn.github.com/)
+
+[GitHub Skills](https://github.com/skills)
 
 [GH-900 GitHub Foundations - YouTube](https://www.youtube.com/playlist?list=PLahhVEj9XNTf5iQVK_80RdvTju7ov6RYy)
 
