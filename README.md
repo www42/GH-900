@@ -6,10 +6,6 @@
 
 ## Seminar 11. - 12.05.2026
 
-### Mittagspause
-
-11:45 - 12:30 Uhr
-
 [Presentations](pdf/)
 
 <br>
@@ -18,31 +14,6 @@
 
 - Learning Path 1️: [GitHub Foundations Part 1 of 2][LP1]
 - Learning Path 2️: [GitHub Foundations Part 2 of 2][LP2]
-
-<br>
-<br>
-
----
-
-Beispiel for Code
-
-```powershell
-Get-AzVm
-```
-
-
-Beispiel Tabelle
-
-| Feature | Beispiel |
-| :- | - |
-|  * Codespaces | Python Codespace |
-
-
-Aufzählung
-
-1. Eins
-3. Zwei
-72. ggghh
 
 <br>
 
@@ -111,6 +82,8 @@ Aufzählung
 [GitHub Learn](https://learn.github.com/)
 
 [GitHub Skills](https://github.com/skills)
+
+[GitHub Docs](https://docs.github.com/en)
 
 [GH-900 GitHub Foundations - YouTube](https://www.youtube.com/playlist?list=PLahhVEj9XNTf5iQVK_80RdvTju7ov6RYy)
 
